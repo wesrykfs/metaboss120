@@ -1,0 +1,73 @@
+{
+  "name": "Iron Pigeon #6220",
+  "symbol": "XPTCS",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://ipfs.io/ipfs/QmdakJua1zs2RkY73uYV4u1ZpkXC4xkCe4ZZ4bCbsuLAkY",
+  "attributes": [
+ {
+      "trait_type": "Rarity",
+      "value": "rare"
+    },
+    {
+      "trait_type": "Power",
+      "value": "864"
+    },
+    {
+      "trait_type": "Health",
+      "value": "healthy"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "skulky"
+    },
+    {
+      "trait_type": "Ability 1",
+      "value": "Ice Dart"
+    },
+    {
+      "trait_type": "House",
+      "value": "Gods"
+    },
+    {
+      "trait_type": "Set Name",
+      "value": "Iron Pigeons"
+    },
+    {
+      "trait_type": "Set Number",
+      "value": "2"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1st Edition"
+    },
+    {
+      "trait_type": "Card Number",
+      "value": "6220"
+    },
+    {
+      "trait_type": "Body",
+      "value": "dilute blue check"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "purple backpack"
+    },
+    {
+      "trait_type": "Beak",
+      "value": "standard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "red"
+    }
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
